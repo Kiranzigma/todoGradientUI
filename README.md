@@ -1,1 +1,1 @@
-# A simple Todo application with jQuery and CSS
+ A simple Todo application with jQuery and CSS
